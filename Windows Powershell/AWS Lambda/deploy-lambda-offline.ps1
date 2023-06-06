@@ -1,6 +1,7 @@
-echo "Building application."
-npm run build
+Write-Output "Building application."
+# package.json build-new script -> nx build
+npm run build-new
 
-echo "`n"
-echo "Running application offline using Serverless Framework"
+Write-Output "`n"
+Write-Output "Running application offline using Serverless Framework"
 serverless offline
