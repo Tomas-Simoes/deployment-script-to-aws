@@ -1,6 +1,6 @@
 echo "Building application."
 # package.json build-new script -> nx build
-npm run build-new
+sudo npm run build
 
 echo "`n"
 echo "Deploying to AWS Lambda using Serverless Framework"
