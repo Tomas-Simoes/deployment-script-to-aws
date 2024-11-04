@@ -37,11 +37,7 @@ The following section provides a guide on what the scripts do in detail.
 
 ### AWS ECS
 
-- deplot-to-aws
-
-  Used
-
--
+TODO
 
 ### AWS Lambda
 
