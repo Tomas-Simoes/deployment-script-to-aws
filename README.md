@@ -1,4 +1,4 @@
-# Deploy Application to AWS Scripts
+# Deploy Application to AWS 
 
 Scripts to help you deploying an application to AWS services, such as AWS ECS and AWS Lambda.
 
